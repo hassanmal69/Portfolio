@@ -306,4 +306,8 @@ span {
   .nav ul li a {
     font-size: 20px;
   }
+  .links img{
+    height: 60px;
+    width: 110px;
+  }
 }
